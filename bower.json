@@ -1,0 +1,25 @@
+{
+  "name": "purescript-node-fetch",
+  "homepage": "https://github.com/sigma-andex/purescript-node-fetch",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sigma-andex/purescript-node-fetch.git"
+  },
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "bower.json",
+    "package.json"
+  ],
+  "dependencies": {
+    "purescript-effect": "^4.0.0",
+    "purescript-foreign-object": "^4.0.0",
+    "purescript-http-methods": "^6.0.0",
+    "purescript-prelude": "^6.0.0",
+    "purescript-record": "^4.0.0",
+    "purescript-typelevel-prelude": "^7.0.0"
+  }
+}
